@@ -10,7 +10,7 @@
     "minimatch": "^3.0.4",
     "p-reduce": "^1.0.0",
     "pify": "^3.0.0",
-    "puppeteer": "^1.5.0",
+    "puppeteer": "^1.13.0",
     "read-json-sync": "^2.0.0",
     "request": "^2.87.0",
     "request-promise-native": "^1.0.5",
